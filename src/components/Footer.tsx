@@ -7,9 +7,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Logo and Description */}
           <div>
-            <h3 className="text-2xl font-bold">BM- Shop</h3>
+            <h3 className="text-2xl font-bold">AM- Shop</h3>
             <p className="mt-4 text-gray-400">
-            Discover unbeatable deals and exclusive products at BM-Shop. Shop with confidence, backed by exceptional customer support!
+            Discover unbeatable deals and exclusive products at AM-Shop. Shop with confidence, backed by exceptional customer support!
             </p>
           </div>
 
@@ -71,7 +71,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="mt-8 border-t border-gray-800 pt-6 text-center text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} BM- Shop. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} AM- Shop. All rights reserved.</p>
         </div>
       </div>
     </footer>

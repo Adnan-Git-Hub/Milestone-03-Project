@@ -1,19 +1,19 @@
 import Image from 'next/image';
 import T1 from "@/images/T1.jpg";
 import T2 from "@/images/T2.jpg";
-import T3 from "@/images/T3.jpg";
+import T3 from "../images/T3.jpg";
 
 const testimonials = [
   {
     name: 'Customer 1',
     role: 'Verified Buyer',
-    quote: 'Bisma-Store boasts an exceptional range of products and unparalleled customer service, ensuring a shopping experience like no other!',
+    quote: 'Adnan-Store boasts an exceptional range of products and unparalleled customer service, ensuring a shopping experience like no other!',
     image: T1,
   },
   {
     name: 'Customer 2',
     role: 'Regular Customer',
-    quote: 'Shopping at Bisma-Store is a delight! The user-friendly site and prompt delivery make every purchase a seamless experience',
+    quote: 'Shopping at Adnan-Store is a delight! The user-friendly site and prompt delivery make every purchase a seamless experience',
     image: T2,
   },
   {

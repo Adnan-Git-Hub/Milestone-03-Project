@@ -24,7 +24,7 @@ const Hero = () => {
                     {/* Content */}
                     <div className="relative text-center">
                         <h1 className="text-[35px] font-extrabold tracking-tight sm:text-5xl">
-                            Welcome to BM-Shop
+                            Welcome to AM-Shop
                         </h1>
                         <p className="mt-6 text-xl max-w-3xl mx-auto text-black">
                             Discover our exclusive range of products designed to elevate your shopping experience. Explore now for the best deals and seamless convenience! Whether you are looking for trendy fashion, cutting-edge electronics, or home essentials, we have got you covered with unbeatable prices. 

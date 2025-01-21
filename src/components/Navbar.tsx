@@ -30,7 +30,7 @@ const Navbar = () => {
                     <div className="flex-1 flex items-center justify-between sm:items-stretch sm:justify-start">
                         <div className="flex-shrink-0">
                             <Link href="/">
-                                <span className="text-2xl font-bold text-white cursor-pointer">BM-Shop</span>
+                                <span className="text-2xl font-bold text-white cursor-pointer">AM-Shop</span>
                             </Link>
                         </div>
                     </div>
